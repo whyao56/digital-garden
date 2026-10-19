@@ -87,6 +87,11 @@ foreach ($n in $notes) {
     $strippedLinks.Add("$($n.Name) -> [[$target]]")
     return $shown
   })
+  # B站分享链接里的 vd_source 是账号专属跟踪参数，去掉
+  $text = $text -replace '([?&])vd_source=[0-9A-Za-z]+', ''
+  $text = $text -replace '\?&', '?'
+  # 本机 Windows 用户名
+  $text = $text.Replace('C:\Users\HP', 'C:\Users\<用户名>')
   if ($text -ne $orig) { [IO.File]::WriteAllText($n.FullName, $text, $utf8) }
 }
 

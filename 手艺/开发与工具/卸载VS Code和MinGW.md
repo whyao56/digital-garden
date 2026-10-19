@@ -2,7 +2,7 @@
 tags: [领域/开发与工具, 类型/教程]
 ---
 
-[如何卸载VS Code和MinGW软件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YXtZzgE2r/?spm_id_from=333.1387.favlist.content.click&vd_source=68074f1132646c64dff4aca26e69ae02)
+[如何卸载VS Code和MinGW软件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YXtZzgE2r/?spm_id_from=333.1387.favlist.content.click)
 
 **卸载MinGW：**
 1. 系统属性 → 环境变量![[仓库区/图片、附件/卸载VS Code和MinGW-01-系统属性 → 环境变量.png]]

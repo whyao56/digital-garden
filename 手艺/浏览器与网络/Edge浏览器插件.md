@@ -2,7 +2,7 @@
 tags: [领域/浏览器与网络, 类型/教程]
 ---
 
-[9款Edge浏览器必备灵魂插件，少装一个都不行！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qp421D7Pd/?spm_id_from=333.1387.favlist.content.click&vd_source=68074f1132646c64dff4aca26e69ae02)
+[9款Edge浏览器必备灵魂插件，少装一个都不行！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qp421D7Pd/?spm_id_from=333.1387.favlist.content.click)
 
 **关于 9 款浏览器必装插件的整理**
 
@@ -107,7 +107,7 @@ Tags: #浏览器插件 #效率工具 #B站改造 #资源搜索 #音乐 #篡改�
 #资源嗅探 #倍速播放 #深色模式 
 
 ---
-[给我5分钟，我将向你介绍6个浏览器插件，还你一个无敌Edge_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oD4y117VP/?spm_id_from=333.1387.favlist.content.click&vd_source=68074f1132646c64dff4aca26e69ae02)
+[给我5分钟，我将向你介绍6个浏览器插件，还你一个无敌Edge_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oD4y117VP/?spm_id_from=333.1387.favlist.content.click)
 
 **关于 6 款浏览器神奇插件的整理**
 

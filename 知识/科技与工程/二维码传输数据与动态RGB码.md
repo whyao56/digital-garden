@@ -3,7 +3,7 @@ title: 二维码传输数据与动态RGB码
 tags: [领域/科技与工程, 类型/知识卡片]
 ---
 
-[二维码传输数据_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mzGG67EME/?spm_id_from=333.1387.favlist.content.click&vd_source=68074f1132646c64dff4aca26e69ae02)
+[二维码传输数据_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mzGG67EME/?spm_id_from=333.1387.favlist.content.click)
 
 
 前一个视频用动态RGB码传输视频的技术，完全没想过的一个思路。
@@ -18,7 +18,7 @@ tags: [领域/科技与工程, 类型/知识卡片]
 
 
 2026.09.19
-[两部手机完全断网，竟然还能互传文件？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WW8R6uEja/?spm_id_from=333.1387.favlist.content.click&vd_source=68074f1132646c64dff4aca26e69ae02)
+[两部手机完全断网，竟然还能互传文件？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WW8R6uEja/?spm_id_from=333.1387.favlist.content.click)
 
 后一个视频介绍动态二维码可以在两部完全断网的手机互传数据，虽然蓝牙传输也可以进行断网传输。
 
